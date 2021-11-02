@@ -1,0 +1,20 @@
+I:isoleucine
+V:valine
+S:serine
+P:proline
+A:alanine
+G:glycine
+R:arginine
+F:phenylalanine
+L:leucine
+M:methionine
+T:threonine
+Y:tyrosine
+H:histidine
+Q:glutamine
+N:asparagine
+K:lysine
+D:aspartic acid
+E:glutamic acid
+C:cysteine
+W:tryptophan
